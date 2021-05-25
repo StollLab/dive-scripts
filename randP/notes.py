@@ -14,3 +14,5 @@
 # alpha = comes from regularization solution
 # delta_init = alpha^2*tau
 # P_init = randP(delta_init,tauKTK,tauKtS,LtL,nr)
+
+, init = 'adapt_diag'
